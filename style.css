@@ -1,0 +1,20 @@
+body {
+	background-color: #C3B299;
+	color: #523249;
+}
+
+.container {
+	background-color: #815355;
+	padding: 15px;
+}
+
+h1 {
+	font-family: courier;
+	color: #523249;
+	text-align: center;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+}
